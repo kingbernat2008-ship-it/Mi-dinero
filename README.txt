@@ -1,14 +1,8 @@
-MI DINERO+ PARA IPHONE
+ACTUALIZAR EN GITHUB
+1. Descomprime el ZIP.
+2. Sube y sustituye index.html, manifest.webmanifest, sw.js e iconos en tu repositorio.
+3. Pulsa Commit changes.
+4. Espera unos minutos. Si sigue la versión anterior, elimina el acceso directo del iPhone y vuelve a añadirlo desde Safari.
 
-PUBLICAR ACTUALIZACIÓN EN GITHUB
-1. Descomprime este ZIP.
-2. En tu repositorio mi-dinero, pulsa Add file > Upload files.
-3. Sube index.html, manifest.webmanifest, sw.js y los dos iconos.
-4. Confirma Replace files si aparece y pulsa Commit changes.
-5. Espera 1-10 minutos y abre tu URL de GitHub Pages.
-6. Si ves la versión anterior: Safari > Ajustes del sitio / borrar datos, o elimina el icono y vuelve a añadir la app a la pantalla de inicio.
-
-DATOS
-Los datos se guardan en localStorage del dispositivo. Exporta copias periódicamente desde Movimientos.
-Las noticias requieren una API key de Finnhub.
-El análisis de titulares es educativo, no asesoramiento financiero.
+IMPORTAR ING
+Usa un CSV con columnas Fecha, Concepto/Descripcion e Importe. Los cargos negativos se importan como gastos y los abonos positivos como ingresos.
