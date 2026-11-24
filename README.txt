@@ -1,11 +1,7 @@
 BALANCE PARA IPHONE
 
-Incluye sectores de gasto seleccionables, informe detallado por categoría, gráfico circular por sectores, informe de inversiones por empresa y CSV de cualquier banco.
+IMPORTACIÓN
+Acepta CSV y PDF bancarios. Los PDF deben contener texto seleccionable; los documentos escaneados como imagen necesitan OCR y no se leen directamente. La lectura PDF usa PDF.js y requiere conexión la primera vez. Revisa los movimientos después de importar porque cada banco presenta cargos y abonos de manera distinta.
 
 ACTUALIZAR EN GITHUB
-1. Descomprime el ZIP.
-2. Sustituye todos los archivos del repositorio.
-3. Pulsa Commit changes.
-4. Espera unos minutos. Si sigue la versión anterior, elimina el acceso directo y vuelve a instalarla desde Safari.
-
-Los movimientos bancarios importados entran inicialmente en Otros para que puedas identificarlos.
+Descomprime el ZIP, sustituye todos los archivos del repositorio y pulsa Commit changes.
