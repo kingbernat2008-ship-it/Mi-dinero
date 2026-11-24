@@ -1,8 +1,11 @@
+BALANCE PARA IPHONE
+
+Incluye sectores de gasto seleccionables, informe detallado por categoría, gráfico circular por sectores, informe de inversiones por empresa y CSV de cualquier banco.
+
 ACTUALIZAR EN GITHUB
 1. Descomprime el ZIP.
-2. Sube y sustituye index.html, manifest.webmanifest, sw.js e iconos en tu repositorio.
+2. Sustituye todos los archivos del repositorio.
 3. Pulsa Commit changes.
-4. Espera unos minutos. Si sigue la versión anterior, elimina el acceso directo del iPhone y vuelve a añadirlo desde Safari.
+4. Espera unos minutos. Si sigue la versión anterior, elimina el acceso directo y vuelve a instalarla desde Safari.
 
-IMPORTAR ING
-Usa un CSV con columnas Fecha, Concepto/Descripcion e Importe. Los cargos negativos se importan como gastos y los abonos positivos como ingresos.
+Los movimientos bancarios importados entran inicialmente en Otros para que puedas identificarlos.
